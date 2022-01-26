@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 
-- 🌱 I’m currently learning JavaScript and Swift.
+- 🌱 I’m currently learning JavaScript and python(on the side).
 - 📫 reach me at: lortiztech@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I dabble in electronics repair
