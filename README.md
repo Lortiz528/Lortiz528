@@ -11,13 +11,15 @@ Here are some ideas to get you started:-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lortiz528&label=Profile%20views&color=0e75b6&style=flat" alt="lortiz528" /> </p>
 
+- 🔭 I’m currently working on [Student Dashboard](https://github.com/Lortiz528/8-3-react-student-dashboard)
+
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 💬 Ask me about **Baseball!**
 
 - 📫 How to reach me **lortiztech@gmail.com**
 
-- ⚡ Fun fact **I dabble in electronics repair**
+- ⚡ Fun fact **I was born on my Mom's Birthday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
