@@ -34,6 +34,4 @@ Here are some ideas to get you started:-->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lortiztech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lortiztech" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lortiz528&show_icons=true&locale=en&layout=compact" alt="lortiz528" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lortiz528&show_icons=true&locale=en" alt="lortiz528" /></p>
