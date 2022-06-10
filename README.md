@@ -20,8 +20,6 @@ Here are some ideas to get you started:-->
 
 - 📫 How to reach me **lortiztech@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KTui0AAPKKVHBM-ErEhjEhadl9kPi5vNng7_G63CjPs/edit?usp=sharing](https://docs.google.com/document/d/1KTui0AAPKKVHBM-ErEhjEhadl9kPi5vNng7_G63CjPs/edit?usp=sharing)
-
 - ⚡ Fun fact **I was born on my Mom's Birthday**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,4 +37,3 @@ Here are some ideas to get you started:-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lortiz528&show_icons=true&locale=en&layout=compact" alt="lortiz528" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lortiz528&show_icons=true&locale=en" alt="lortiz528" /></p>
-
