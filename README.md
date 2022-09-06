@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A passionate full stack developer from NYC</h3>
+<h3 align="center">A full stack developer from NYC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lortiz528&label=Profile%20views&color=0e75b6&style=flat" alt="lortiz528" /> </p>
 
